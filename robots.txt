@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ariahimself.github.io/ariahimself//sitemap.xml
+Sitemap: https://ariahimself.github.io/sitemap.xml
