@@ -2,25 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Candidate at Northeastern University
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: True # crops the image to make it circular
+  
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I have Undertaked up to 20 advanced pure mathematical courses alongside my main curriculum, providing a robust mathematical and formal foundation for addressing research challenges.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have Focused on chronic obstructive pulmonary disease (COPD) in my primary research, a prevalent lung ailment linked to smoking. I've published Machine Learning approaches addressing COPD challenges, including its heterogeneity. This work, reflected in couple journal papers, aims to understand why some heavy smokers don't develop COPD, offering potential preventive strategies.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have Contributed to top conferences with Technical Machine Learning papers, including 4 papers in NeurIPS (Ranked #2 in AI), 1 paper in ICLR (Ranked #1 in AI), 1 paper in AISTAT, and 1 paper in the Neural Network Journal.
+
+As a senior Ph.D. student, I've mentored junior students in their research endeavors, collaborating with them on multiple papers, fostering a collaborative and supportive research environment.
