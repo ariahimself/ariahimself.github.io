@@ -64,7 +64,7 @@ As a senior Ph.D. student, I've mentored junior students in their research endea
 
  -->
 
-I am pursuing a concurrent Ph.D. in **Electrical Engineering** and **Mathematics** at Northeastern University under the supervision of **Jennifer Dy** (EE) and **Milen Yakimov** (Mathematics). In the summer of 2024, I will defend my Ph.D. in Electrical Engineering with a specialization in <u>**Explainable Machine Learning**</u>. Additionally, I plan to defend my Ph.D. in Mathematics with a specialization in **Noncommutative Algebra** and **Noncommutative Algebraic Geometry** in the Fall of 2024.
+I am pursuing a concurrent Ph.D. in **Electrical Engineering** and **Mathematics** at Northeastern University under the supervision of **Jennifer Dy** (EE) and **Milen Yakimov** (Mathematics). In the summer of 2024, I will defend my Ph.D. in Electrical Engineering with a specialization in **<u>Explainable Machine Learning</u>**. Additionally, I plan to defend my Ph.D. in Mathematics with a specialization in **Noncommutative Algebra** and **Noncommutative Algebraic Geometry** in the Fall of 2024.
 
 During the spring of 2024, I served as an Associate Program member at the Simons Laufer Mathematical Sciences Institute (formally known as MSRI), focusing on **[<u>Noncommutative Algebraic Geometry</u>](https://www.slmath.org/programs/356#members)**. I earned a B.Sc. degree in Electrical Engineering and minor in Mathematics from Sharif University of Technology. 
 
