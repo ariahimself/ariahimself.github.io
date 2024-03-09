@@ -94,7 +94,7 @@ During the spring of 2024, I served as an Associate Program member at the Simons
 
 - Completed up to 20 advanced pure mathematical courses, including Riemannian Geometry, Algebraic Geometry, and Functional Analysis and etc alongside my main curriculum, providing a robust mathematical and formal foundation for addressing research challenges in Mathematics and Machine Learning.
 - I have Contributed to top conferences with Technical Machine Learning papers, and Presented technical papers in prestigious conferences and journals, including:
-  - **4** papers in **NeurIPS** (Ranked #2 in AI), including a <u>*spotlight</u>*,
+  - **4** papers in **NeurIPS** (Ranked #2 in AI), including a *<u>Spotlight</u>*,
   - *<u>Spotlight</u>* paper in **ICLR** (Ranked #1 in AI),
   - **3** papers in **AISTATS**, 
   - A paper **Neural Network Journal**,
