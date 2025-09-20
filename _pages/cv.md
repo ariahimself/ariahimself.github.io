@@ -11,35 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Electrical and Computer Engineering, Northeastern University, 2024
+* Ph.D. in Mathematics, Northeastern University, 2025
+* M.S. in Electrical and Computer Engineering, Northeastern University, 2019
+* B.Sc. in Electrical Engineering, Sharif University of Technology, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate Research Assistant (Sep 2017 - Aug 2024)
+  * ECE Department, Northeastern University
+  * Interpretability of black box models is often complicated and needs a prodigious amount of analysis. Our collaboration with Harvard medical school enables us to study the applicability of our methods on biomedical data, where we focus on developing novel learning algorithms to aid in the discovery of subtypes of a lung disease called Chronic Obstructive Pulmonary Disease (COPD).
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Research Assistant (Sep 2024 - Aug 2025)
+  * Math Department, Northeastern University
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Researcher (May 2016 - Aug 2016)
+  * Astar (Institute for Infocomm Research)
+  * Efficient WLAN connection of a client, moving from one access point to another with sensor assistance and power-efficient real-time WLAN data transfer. Setting up a WiFi module and measuring the power profile of WL1837MOD WlinkTM. Using sensors (accelerometer) for Motion detection by machine learning algorithms. Using sensors for detecting heart rate and breath rate.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * MATLAB
+  * C
+  * C++
+  * Maccaulay2
+  * SageMath
+* Data Science & Machine Learning
+  * PyTorch
+  * pandas
+  * NumPy
+  * scikit-learn
+  * LaTeX
+* Version Control
+  * Git
 
 Publications
 ======
