@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Aria Masoomi",
+    "email": "masoomi.a@northeastern.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "ariahimself.github.io",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Boston",
       "countryCode": "US",
       "region": ""
     },
@@ -16,82 +16,155 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=KXcX8coAAAAJ&hl=en&oi=ao"
       },
       {
-        "network": "ORCID",
+        "network": "Linkedin",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://www.linkedin.com/in/aria-masoomi-779a02232"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "",
+        "url": "https://github.com/ariahimself"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Northeastern University",
+      "area": "Ph.D. in Electrical and Computer Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "startDate": "Sep 2019",
+      "endDate": "Dec 2024",
+      "advisor": "Professor Jennifer Dy",
+      "thesis": "Making Deep Neural Networks Transparent",
+      "gpa": 4.0,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Northeastern University",
+      "area": "Ph.D. in Mathematics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "startDate": "Sep 2022",
+      "endDate": "Aug 2025",
+      "advisor": "Professor Milen Yakimov",
+      "thesis": "Poisson Geometry of Flag Varieties and Representation Theory of their Quantum Deformations",
+      "gpa": 4.0,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Northeastern University",
+      "area": "MS in Electrical and Computer Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "startDate": "Sep 2017",
+      "endDate": "Aug 2019",
+      "gpa": 3.9,
+      "courses": []
+    },
+    {
+      "institution": "Sharif University of Technology",
+      "area": "B.Sc. in Electrical Engineering",
+      "studyType": "",
+      "startDate": "Sep 2012",
+      "endDate": "Aug 2017",
+      "gpa": 3.7,
       "courses": []
     }
   ],
   "skills": [],
-  "languages": [],
-  "interests": [],
+  "languages": ["English", "Persian"],
+  "interests": ["Chess", "Piano", "Weight Lifting"],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "DISCO: Disentangled Communication Steering for Large Language Models",
+      "publisher": "Proceedings of Conference on Neural Information Processing Systems (NeurIPS)",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "",
+      "authors": "Max Torop, Aria Masoomi, et al."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "OrdShap: Feature Position Importance for Sequential Black-Box Models",
+      "publisher": "Proceedings of Conference on Neural Information Processing Systems (NeurIPS)",
+      "releaseDate": "2025",
+      "website": "https://arxiv.org/pdf/2507.11855",
+      "summary": "",
+      "authors": "Davin Hill, Brian L. Hill, Aria Masoomi, et al."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Boundary-Aware Uncertainty for Feature Attribution Explainers",
+      "publisher": "International Conference on Artificial Intelligence and Statistics (AISTATS)",
+      "releaseDate": "2024",
+      "website": "https://proceedings.mlr.press/v238/hill24a/hill24a.pdf",
+      "summary": "",
+      "authors": "Davin Hill, Aria Masoomi, et al."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Analyzing Explainer Robustness via Probabilistic Lipschitzness of Prediction Functions",
+      "publisher": "Proceedings of International Conference on Artificial Intelligence and Statistics (AISTATS)",
+      "releaseDate": "2024",
+      "website": "https://proceedings.mlr.press/v238/khan24a.html",
+      "summary": "",
+      "authors": "Zulqarnain Q. Khan, Davin Hill, Aria Masoomi, et al."
+    },
+    {
+      "name": "SmoothHess: ReLU Network Feature Interactions via Stein’s Lemma",
+      "publisher": "Proceedings of Conference on Neural Information Processing Systems (NeurIPS)",
+      "releaseDate": "2023",
+      "website": "https://proceedings.neurips.cc/paper_files/paper/2023/file/9ef5e965720193681fc8d16372ac4717-Paper-Conference.pdf",
+      "summary": "",
+      "authors": "Max Torop*, Aria Masoomi*, et al."
+    },
+    {
+      "name": "Inv-Senet: Invariant Self Expression Network for Clustering Under Biased Data",
+      "publisher": "Proceedings of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+      "releaseDate": "2023",
+      "website": "https://ieeexplore.ieee.org/abstract/document/10094998",
+      "summary": "",
+      "authors": "Ashutosh Singh, Ashish Singh, Aria Masoomi, et al."
+    },
+    {
+      "name": "Explanations of black-box models based on directional feature interactions",
+      "publisher": "Proceedings of International Conference on Learning Representations (ICLR)",
+      "releaseDate": "2022",
+      "website": "https://openreview.net/forum?id=45Mr7LeKR9",
+      "summary": "",
+      "authors": "Aria Masoomi, et al."
+    },
+    {
+      "name": "Deep Layer-wise Networks Have Closed-Form Weights",
+      "publisher": "Proceedings of  International Conference on Artificial Intelligence and Statistics (AISTATS)",
+      "releaseDate": "2022",
+      "website": "https://proceedings.mlr.press/v151/tzu-wu22a/tzu-wu22a.pdf",
+      "summary": "",
+      "authors": "Chieh Wu*, Aria Masoomi*, et al."
+    },
+    {
+      "name": "Reliable estimation of kl divergence using a discriminator in reproducing kernel hilbert space",
+      "publisher": "Proceedings of Conference on Neural Information Processing Systems (NeurIPS)",
+      "releaseDate": "2021",
+      "website": "https://proceedings.neurips.cc/paper/2021/file/54a367d629152b720749e187b3eaa11b-Paper.pdf",
+      "summary": "",
+      "authors": "Sandesh Ghimire, Aria Masoomi, Jennifer Dy."
+    },
+    {
+      "name": "Revisiting Hilbert-Schmidt Information Bottleneck for Adversarial Robustness",
+      "publisher": "Proceedings of Conference on Neural Information Processing Systems (NeurIPS)",
+      "releaseDate": "2021",
+      "website": "https://proceedings.neurips.cc/paper/2021/file/055e31fa43e652cb4ab6c0ee845c8d36-Paper.pdf",
+      "summary": "",
+      "authors": "Zifeng Wang*, Tong Jian*, Aria Masoomi, et al."
+    },
+    {
+      "name": "Instance-wise Feature Grouping",
+      "publisher": "Proceedings of Conference on Neural Information Processing Systems (NeurIPS)",
+      "releaseDate": "2020",
+      "website": "https://proceedings.neurips.cc/paper/2020/file/9b10a919ddeb07e103dc05ff523afe38-Paper.pdf",
+      "summary": "",
+      "authors": "Aria Masoomi*, Chieh Wu*, et al."
     }
   ],
   "presentations": [
