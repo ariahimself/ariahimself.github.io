@@ -102,7 +102,7 @@ for row, item in publications.iterrows():
     
     md_filename = os.path.basename(md_filename)
        
-    with open("./Downloads/ariahimself.github.io/_publications/" + md_filename, 'w') as f:
+    with open("./Downloads/ariahimself.github.io/_publications/" + md_filename, 'w', encoding="utf-8") as f:
         f.write(md)
 
 
