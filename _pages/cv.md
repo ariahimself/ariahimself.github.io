@@ -47,9 +47,26 @@ Honors And Awards
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <!-- <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+  <ul class="cv-pubs">
+  {% for post in site.publications reversed %}
+    <li>
+      <strong>
+        {% if post.paperurl %}
+          <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a>
+        {% else %}
+          {{ post.title }}
+        {% endif %}
+      </strong>
+      <br>
+      {{ post.authors }}.
+      <em>{{ post.publisher }}</em>,
+      {{ post.date | date: "%Y" }}.
+    </li>
+  {% endfor %}
+</ul>
   
 <!-- Talks
 ======
