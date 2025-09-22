@@ -33,13 +33,13 @@ Honors And Awards
 ======
 * Best Ph.D. Thesis Award
   * Poisson Geometry of Flag Varieties and Representation Theory of their Quantum Deformations, Northeastern Univeristy Mathematics Department, 2025
-* [Ph.D. Spotlight][https://coe.northeastern.edu/news/phd-spotlight-aria-masoomi-phd24-computer-engineering-and-mathematics/]
+* [Ph.D. Spotlight](https://coe.northeastern.edu/news/phd-spotlight-aria-masoomi-phd24-computer-engineering-and-mathematics/)
   * Computer Engineering and Mathematics, Northeastern University, 2024
-* [ICLR Spotlight Paper][https://openreview.net/forum?id=45Mr7LeKR9]
+* [ICLR Spotlight Paper](https://openreview.net/forum?id=45Mr7LeKR9)
   * Explanations of Black-Box Models based on Directional Feature Interactions, 2022
-* [NeurIPS Spotlight Paper][https://neurips.cc/virtual/2021/spotlight/27161]
+* [NeurIPS Spotlight Paper](https://neurips.cc/virtual/2021/spotlight/27161)
   * Reliable Estimation of KL Divergence using a Discriminator in Reproducing Kernel Hilbert Space, 2021
-* [Singapore International Pre-Graduate Award (SIPGA)][https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga]
+* [Singapore International Pre-Graduate Award (SIPGA)](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga)
   * A*STAR, 2016
 * Among the best B.Sc. Thesis of Electrical Engineering Department
   * Sharif University of Technology, 2017
