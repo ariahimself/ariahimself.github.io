@@ -28,24 +28,6 @@ Work experience
 * Researcher (May 2016 - Aug 2016)
   * Astar (Institute for Infocomm Research)
   * Efficient WLAN connection of a client, moving from one access point to another with sensor assistance and power-efficient real-time WLAN data transfer. Setting up a WiFi module and measuring the power profile of WL1837MOD WlinkTM. Using sensors (accelerometer) for Motion detection by machine learning algorithms. Using sensors for detecting heart rate and breath rate.
-  
-Skills
-======
-* Programming Languages
-  * Python
-  * MATLAB
-  * C
-  * C++
-  * Maccaulay2
-  * SageMath
-* Data Science & Machine Learning
-  * PyTorch
-  * pandas
-  * NumPy
-  * scikit-learn
-  * LaTeX
-* Version Control
-  * Git
 
 Publications
 ======
@@ -53,18 +35,27 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+Skills
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming Languages
+  * Python, MATLAB, C/C++, Maccaulay2, SageMath
+* Data Science & Machine Learning
+  * PyTorch, pandas, NumPy, scikit-learn, LaTeX
+* Version Control
+  * Git
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Summer School Organizer
+  * Machine Learning for Mathematicians and Physicists Summer School, Northeastern University, 2025
+* Conference Reviewer
+  * Advances in Neural Information Processing Systems (NeurIPS), 2025
+  * Association for the Advancement of Artificial Intelligence (AAAI), 2024
+  * Advances in Neural Information Processing Systems (NeurIPS), 2021
+  * Society for Artificial Intelligence and Statistics (AISTATS), 2021
