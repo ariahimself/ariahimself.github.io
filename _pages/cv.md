@@ -45,28 +45,11 @@ Honors And Awards
   * Sharif University of Technology, 2017
 * Ranked 58th (top 0.5\%) in Iran University Entrance Exam, 2012
 
-Publications
-======
+<!-- Publications
+====== -->
   <!-- <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-  <ul class="cv-pubs">
-  {% for post in site.publications reversed %}
-    <li>
-      <strong>
-        {% if post.paperurl %}
-          <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a>
-        {% else %}
-          {{ post.title }}
-        {% endif %}
-      </strong>
-      <br>
-      {{ post.authors }}.
-      <em>{{ post.publisher }}</em>,
-      {{ post.date | date: "%Y" }}.
-    </li>
-  {% endfor %}
-</ul>
   
 <!-- Talks
 ======
