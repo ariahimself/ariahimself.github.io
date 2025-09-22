@@ -26,9 +26,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Aria Masoomi"
   pronouns         : "He/Him"  
-  bio              : "AI Researcher"
+  bio              : "AI Researcher/Mathematician"
   location         : "Boston"
-  employer         : ""
+  employer         : 
   uri              : # URL
   email            : "masoomi.a@northeastern.edu" 
 
