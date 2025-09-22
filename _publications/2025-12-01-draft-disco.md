@@ -1,9 +1,9 @@
 ---
 title: "DISCO: Disentangled Communication Steering for Large Language Models"
-collection: manuscripts
+collection: conference
 permalink: 
 date: 2025-12-01
-venue: 'NeurIPS'
+venue: 'Neural Information Processing Systems (NeurIPS)'
 paperurl: 'https://'
-authors: 'Max Torop, Aria Masoomi, et al.'
+authors: '<small>Max Torop, <b>Aria Masoomi</b>, Masih Eskandar, Jennifer Dy</small>'
 ---

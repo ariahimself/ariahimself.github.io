@@ -1,6 +1,6 @@
 ---
 title: "Blood-based transcriptomic and proteomic biomarkers of emphysema"
-collection: manuscripts
+collection: journal
 permalink: 
 date: 2024-04-01
 venue: 'AJRCCM'

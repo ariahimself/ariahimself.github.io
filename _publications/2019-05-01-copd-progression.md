@@ -1,6 +1,6 @@
 ---
 title: "Deep learning prediction of COPD progression using enriched densitometry phenotypes"
-collection: manuscripts
+collection: journal
 permalink: 
 date: 2019-05-01
 venue: 'ATS'

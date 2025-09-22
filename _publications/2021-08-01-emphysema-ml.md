@@ -1,6 +1,6 @@
 ---
 title: "Blood transcriptomics-based machine learning prediction of emphysema in smokers"
-collection: manuscripts
+collection: journal
 permalink: 
 date: 2021-08-01
 venue: 'CHEST'

@@ -1,6 +1,6 @@
 ---
 title: "Improved prediction of smoking status via isoform-aware RNA-seq deep learning models"
-collection: manuscripts
+collection: journal
 permalink: /publication/2021-09-01-smoking-status-prediction
 date: 2021-09-01
 venue: 'PLOS Comp Bio'

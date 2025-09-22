@@ -1,6 +1,6 @@
 ---
 title: "Making Deep Neural Networks Transparent"
-collection: manuscripts
+collection: dissertation
 permalink: 
 date: 2024-12-01
 venue: 'Dissertation'

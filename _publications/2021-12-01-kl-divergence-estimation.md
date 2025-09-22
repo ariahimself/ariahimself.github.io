@@ -1,9 +1,9 @@
 ---
 title: "Reliable estimation of KL divergence using a discriminator in reproducing kernel Hilbert space"
-collection: manuscripts
+collection: conference
 permalink: 
 date: 2021-12-01
-venue: 'NeurIPS'
+venue: 'Neural Information Processing Systems (NeurIPS)'
 paperurl: 'https://proceedings.neurips.cc/paper/2021/file/54a367d629152b720749e187b3eaa11b-Paper.pdf'
 authors: 'Sandesh Ghimire, Aria Masoomi, Jennifer Dy'
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Deep Bayesian Unsupervised Lifelong Learning"
-collection: manuscripts
+collection: journal
 permalink: 
 date: 2022-02-01
 venue: 'Neural Networks'

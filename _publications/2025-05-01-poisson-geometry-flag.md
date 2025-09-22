@@ -1,6 +1,6 @@
 ---
 title: "Poisson Geometry of Flag Varieties and Representation Theory of Their Quantum Deformations"
-collection: manuscripts
+collection: dissertation
 permalink: 
 date: 2025-05-01
 venue: 'Dissertation'
