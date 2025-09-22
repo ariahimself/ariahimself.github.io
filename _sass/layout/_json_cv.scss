@@ -135,6 +135,17 @@
   color: var(--global-text-color);
 }
 
+.cv-skill-list {
+  list-style: none;     /* remove bullets */
+  padding: 0;
+  margin: 0;
+}
+
+.cv-skill-list li {
+  display: inline-block;
+  margin-right: 0.75em;
+}
+
 .cv-skill-keywords {
   display: flex;
   flex-wrap: wrap;
