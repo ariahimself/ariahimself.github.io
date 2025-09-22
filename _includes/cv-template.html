@@ -139,7 +139,7 @@
           <li>{{ keyword }}</li>
           {% endfor %}
         </ul> -->
-        <p class="cv-skill-list">
+        <p>
           {% for keyword in skill.keywords %}
             {{ keyword }}{% unless forloop.last %}, {% endunless %}
           {% endfor %}
