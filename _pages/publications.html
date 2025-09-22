@@ -11,6 +11,7 @@ author_profile: true
 
 <ul>
   {% for post in site.publications reversed %}
+    {% if post.title %}
     <li>
       <strong>
         {% if post.paperurl %}
@@ -22,6 +23,7 @@ author_profile: true
       <br>
       {{ post.authors }}. <em>{{ post.venue }}</em>, {{ post.date | date: "%Y" }}.
     </li>
+    {% endif %}
   {% endfor %}
 </ul>
 
