@@ -5,7 +5,7 @@ permalink:
 date: 2018-06-01
 venue: 'Journal of Biometrics &amp; Biostatistics'
 paperurl: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC6530791/'
-authors: 'Qianfan Wu, Adel Boueiz, Alican Bozkurt, Aria Masoomi, et al. (2018). Deep learning methods for predicting disease status using genomic data. <i>Journal of Biometrics & Biostatistics</i>.'
+authors: 'Qianfan Wu, Adel Boueiz, Alican Bozkurt, Aria Masoomi, et al.'
 external_link: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC6530791/
 ---
 
