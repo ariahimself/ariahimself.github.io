@@ -44,18 +44,6 @@ Honors And Awards
 * Among the best B.Sc. Thesis of Electrical Engineering Department
   * Sharif University of Technology, 2017
 * Ranked 58th (top 0.5\%) in Iran University Entrance Exam, 2012
-
-<!-- Publications
-====== -->
-  <!-- <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul> -->
   
 Skills
 ======
