@@ -20,9 +20,7 @@ author_profile: true
         {% endif %}
       </strong>
       <br>
-      {{ post.authors }}.
-      <em>{{ post.publisher }}</em>,
-      {{ post.date | date: "%Y" }}.
+      {{ post.authors }}. <em>{{ post.venue }}</em>, {{ post.date | date: "%Y" }}.
     </li>
   {% endfor %}
 </ul>
