@@ -63,9 +63,6 @@ redirect_from:
   * Society for Artificial Intelligence and Statistics (AISTATS) <span style="float:right"><small><i>2021</i></small></span>
 
 ## Skills
-* Programming Languages
-  Python, MATLAB, C/C++, Maccaulay2, SageMath
-* Data Science & Machine Learning
-  PyTorch, pandas, NumPy, scikit-learn, LaTeX
-* Version Control
-  Git
+* **Programming Languages**: Python, MATLAB, C/C++, Maccaulay2, SageMath
+* **Data Science & Machine Learning**: PyTorch, pandas, NumPy, scikit-learn, LaTeX
+* **Version Control**: Git
