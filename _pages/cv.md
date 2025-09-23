@@ -17,10 +17,10 @@ redirect_from:
 
 ## Education
 * **Ph.D. in Electrical and Computer Engineering** <span style="float:right"><small><i>Sep 2019 - Dec 2024</i></small></span><br>
-  Northeastern University
+  Northeastern University<br>
   Advisor: [Professor Jennifer Dy](https://coe.northeastern.edu/people/dy-jennifer/)
 * **Ph.D. in Mathematics** <span style="float:right"><small><i>Sep 2022 - Aug 2025</i></small></span><br>
-  Northeastern University
+  Northeastern University<br>
   Advisor: [Professor  Milen Yakimov](https://yakimov.sites.northeastern.edu/)
 * **M.S. in Electrical and Computer Engineering** <span style="float:right"><small><i>Sep 2017 - Aug 2019</i></small></span><br>
   Northeastern University
