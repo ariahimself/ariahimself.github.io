@@ -23,9 +23,10 @@ author_profile: true
         <br>
         <small>{{ post.authors }}.</small>
         <br>
-        <small><em> in Proceedings of {{ post.venue }}</em>, {{ post.date | date: "%Y" }}</small>
+        <small><em><b>in Proceedings of {{ post.venue }}</b></em>, {{ post.date | date: "%Y" }}</small>
+        <br>
         {% if post.award %}
-        <small style="color: red;">post.award</small>
+        <small style="color: red;">{{ post.award }} </small>
         {% endif %}
       </li>
   {% endfor %}
@@ -46,8 +47,9 @@ author_profile: true
         <small>{{ post.authors }}.</small>
         <br>
         <small><em> in Proceedings of {{ post.venue }}</em>, {{ post.date | date: "%Y" }}</small>
+        <br>
         {% if post.award %}
-        <small style="color: red;">post.award</small>
+        <small style="color: red;">{{ post.award }} </small>
         {% endif %}
       </li>
   {% endfor %}
@@ -68,8 +70,9 @@ author_profile: true
         <small>{{ post.authors }}.</small>
         <br>
         <small><em> in Proceedings of {{ post.venue }}</em>, {{ post.date | date: "%Y" }}</small>
+        <br>
         {% if post.award %}
-        <small style="color: red;">post.award</small>
+        <small style="color: red;">{{ post.award }} </small>
         {% endif %}
       </li>
   {% endfor %}
