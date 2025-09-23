@@ -12,7 +12,7 @@ author_profile: true
 <h2>Conference Proceedings</h2>
 <ul>
   {% for post in site.publications reversed %}
-    {% if post.collection == "conference" %}
+    {% if post['collection'] == "conference" %}
       <li>
         <strong>
           {% if post.paperurl %}
@@ -31,7 +31,7 @@ author_profile: true
 <h2>Journal Articles</h2>
 <ul>
   {% for post in site.publications reversed %}
-    {% if post.collection == "journal" %}
+    {% if post['collection'] == "journal" %}
       <li>
         <strong>
           {% if post.paperurl %}
@@ -50,7 +50,7 @@ author_profile: true
 <h2>Theses</h2>
 <ul>
   {% for post in site.publications reversed %}
-    {% if post.collection == "thesis" %}
+    {% if post['collection'] == "dissertation" %}
       <li>
         <strong>
           {% if post.paperurl %}
