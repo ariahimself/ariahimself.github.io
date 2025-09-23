@@ -3,7 +3,7 @@ title: "Deep Layer-wise Networks Have Closed-Form Weights"
 collection: conference
 permalink: 
 date: 2022-05-01
-venue: 'Artificial Intelligence and Statistics (AISTATS)'
+venue: 'Artificial Intelligence and Statistics <b>(AISTATS)</b>'
 paperurl: 'https://proceedings.mlr.press/v151/tzu-wu22a/tzu-wu22a.pdf'
 authors: 'Chieh Wu*, <b><u>Aria Masoomi</u></b>*, et al'
 award: 

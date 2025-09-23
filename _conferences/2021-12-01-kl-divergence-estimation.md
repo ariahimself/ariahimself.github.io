@@ -3,7 +3,7 @@ title: "Reliable estimation of KL divergence using a discriminator in reproducin
 collection: conference
 permalink: 
 date: 2021-12-01
-venue: 'Neural Information Processing Systems (NeurIPS)'
+venue: 'Neural Information Processing Systems <b>(NeurIPS)</b>'
 paperurl: 'https://proceedings.neurips.cc/paper/2021/file/54a367d629152b720749e187b3eaa11b-Paper.pdf'
 authors: 'Sandesh Ghimire, <b><u>Aria Masoomi</u></b>, Jennifer Dy'
 award: Spotlight Paper
