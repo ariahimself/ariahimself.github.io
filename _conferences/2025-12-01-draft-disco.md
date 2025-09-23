@@ -5,5 +5,5 @@ permalink:
 date: 2025-12-01
 venue: 'Neural Information Processing Systems (NeurIPS)'
 paperurl: https://arxiv.org/pdf/2509.16820
-authors: 'Max Torop, <b>Aria Masoomi</b>, et al'
+authors: 'Max Torop, <b><i>Aria Masoomi</i></b>, et al'
 ---
