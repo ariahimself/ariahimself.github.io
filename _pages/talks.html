@@ -10,9 +10,9 @@ author_profile: true
       <li>
         <strong>
           {% if post.external_url %}
-            <a href="{{ post.external_url }}" target="_blank">{{ post.title }}</a> <span style="float:right;">{{ post.date | date: "%Y" }}</span>
+            <a href="{{ post.external_url }}" target="_blank">{{ post.title }}</a> <span style="float:right;"><small>{{ post.date_ }}</small></span>
           {% else %}
-            {{ post.title }} <span style="float:right;">{{ post.date | date: "%Y" }}</span>
+            {{ post.title }} <span style="float:right;"><small>{{ post.date_ }}</small></span>
           {% endif %}
         </strong>
         <br>
