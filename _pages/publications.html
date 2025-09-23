@@ -11,8 +11,7 @@ author_profile: true
 
 <h2>Conference Proceedings</h2>
 <ul>
-  {% for post in site.publications reversed %}
-    {% if post['collection'] == "conference" %}
+  {% for post in site.conferences reversed %}
       <li>
         <strong>
           {% if post.paperurl %}
@@ -24,14 +23,12 @@ author_profile: true
         <br>
         <small>{{ post.authors }}. <em> in Proceedings of {{ post.venue }}</em>, {{ post.date | date: "%Y" }}.</small>
       </li>
-    {% endif %}
   {% endfor %}
 </ul>
 
 <h2>Journal Articles</h2>
 <ul>
-  {% for post in site.publications reversed %}
-    {% if post['collection'] == "journal" %}
+  {% for post in site.journals reversed %}
       <li>
         <strong>
           {% if post.paperurl %}
@@ -43,14 +40,12 @@ author_profile: true
         <br>
         <small>{{ post.authors }}. <em>{{ post.venue }}</em>, {{ post.date | date: "%Y" }}.</small>
       </li>
-    {% endif %}
   {% endfor %}
 </ul>
 
 <h2>Theses</h2>
 <ul>
-  {% for post in site.publications reversed %}
-    {% if post['collection'] == "dissertation" %}
+  {% for post in site.theses reversed %}
       <li>
         <strong>
           {% if post.paperurl %}
@@ -62,7 +57,6 @@ author_profile: true
         <br>
         <small>{{ post.authors }}. <em>{{ post.venue }}</em>, {{ post.date | date: "%Y" }}.</small>
       </li>
-    {% endif %}
   {% endfor %}
 </ul>
 
