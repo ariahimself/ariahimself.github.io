@@ -6,4 +6,5 @@ date: 2019-05-01
 venue: 'B101. Advances in COPD Pathogenesis'
 paperurl: 'https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2019.199.1_MeetingAbstracts.A4054'
 authors: 'AR El Boueiz, JG Dy, JC Ross, <b><u>Aria Masoomi</u></b>, et al'
+award: 
 ---

@@ -6,4 +6,5 @@ date: 2018-06-01
 venue: 'Journal of biometrics & biostatistics'
 paperurl: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC6530791/'
 authors: 'Qianfan Wu, Adel Boueiz, Alican Bozkurt, <b><u>Aria Masoomi</u></b>, et al'
+award: 
 ---
