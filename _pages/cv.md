@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 <span style="float:right">
 <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" target="_blank">
-  <i class="fas fa-file-pdf"></i>
+  <large><i class="fas fa-file-pdf"></i></large>
 </a>
 </span>
 
@@ -51,7 +51,7 @@ redirect_from:
   A*STAR. 
 * **Among the best B.Sc. Thesis** <span style="float:right"><small><i>2017</i></small></span><br>
    Electrical Engineering Department, Sharif University of Technology. 
-* **Ranked 58th (top 0.5\%) in Iran University Entrance Exam** <span style="float:right"><small><i>2012</i></small></span>
+* **Ranked 58th (top 0.5%) in Iran University Entrance Exam** <span style="float:right"><small><i>2012</i></small></span>
   
 ## Service and leadership
 * Summer School Organizer <span style="float:right"><small><i>2025</i></small></span><br>
