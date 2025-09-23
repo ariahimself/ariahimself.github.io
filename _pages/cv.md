@@ -12,14 +12,14 @@ redirect_from:
 <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" target="_blank">
   <i class="fas fa-file-pdf"></i>
 </a>
-</span><br>
+</span>
 
 
 ## Education
-* **Ph.D.** in **Electrical and Computer Engineering**, Northeastern University, 2024
-* **Ph.D.** in **Mathematics**, Northeastern University, 2025
-* **M.S.** in **Electrical and Computer Engineering**, Northeastern University, 2019
-* **B.Sc.** in **Electrical Engineering** (With Minor in Mathematical science), Sharif University of Technology, 2017
+* **Ph.D.** in *Electrical and Computer Engineering*, Northeastern University, <span style="float:right">2024</span>
+* **Ph.D.** in *Mathematics*, Northeastern University, <span style="float:right">2025</span>
+* **M.S.** in *Electrical and Computer Engineering*, Northeastern University, <span style="float:right">2019</span>
+* **B.Sc.** in *Electrical Engineering* (With Minor in Mathematical science), Sharif University of Technology, <span style="float:right">2017</span>
 
 ## Experience
 * Graduate Research Assistant (Sep 2017 - Aug 2024)
