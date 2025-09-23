@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 <span style="float:right">
 <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary" target="_blank">
-  <large><i class="fas fa-file-pdf"></i></large>
+  <i class="fas fa-file-pdf fa-3x"></i>
 </a>
 </span>
 
