@@ -16,42 +16,42 @@ redirect_from:
 
 
 ## Education
-* **Ph.D.** in *Electrical and Computer Engineering* <span style="float:right"><small><i>Sep 2019 - Dec 2024</i></small></span><br>
+* **Ph.D. in Electrical and Computer Engineering** <span style="float:right"><small><i>Sep 2019 - Dec 2024</i></small></span><br>
   Northeastern University
-* **Ph.D.** in *Mathematics* <span style="float:right"><small><i>Sep 2022 - Aug 2025</i></small></span><br>
+* **Ph.D. in Mathematics** <span style="float:right"><small><i>Sep 2022 - Aug 2025</i></small></span><br>
   Northeastern University
-* **M.S.** in *Electrical and Computer Engineering* <span style="float:right"><small><i>Sep 2017 - Aug 2019</i></small></span><br>
+* **M.S. in Electrical and Computer Engineering** <span style="float:right"><small><i>Sep 2017 - Aug 2019</i></small></span><br>
   Northeastern University
-* **B.Sc.** in *Electrical Engineering* <span style="float:right"><small><i>Sep 2012 - Aug 2017</i></small></span><br>
+* **B.Sc. in Electrical Engineering** <span style="float:right"><small><i>Sep 2012 - Aug 2017</i></small></span><br>
   Sharif University of Technology, With Minor in Mathematical science
 
 ## Experience
-* Graduate Research Assistant <span style="float:right"><small><i>Sep 2017 - Aug 2024</i></small></span><br>
+* **Graduate Research Assistant** <span style="float:right"><small><i>Sep 2017 - Aug 2024</i></small></span><br>
   ECE Department, Northeastern University
 
-* Graduate Research Assistant <span style="float:right"><small><i>Sep 2024 - Aug 2025</i></small></span><br>
+* **Graduate Research Assistant** <span style="float:right"><small><i>Sep 2024 - Aug 2025</i></small></span><br>
   Math Department, Northeastern University
 
-* Researcher <span style="float:right"><small><i>May 2016 - Aug 2016</i></small></span><br>
+* **Researcher** <span style="float:right"><small><i>May 2016 - Aug 2016</i></small></span><br>
   Astar (Institute for Infocomm Research)
 
-* Teaching Assistant <span style="float:right"><small><i>Sep 2015 - May 2017</i></small></span><br>
+* **Teaching Assistant** <span style="float:right"><small><i>Sep 2015 - May 2017</i></small></span><br>
   Lab assistance for Principles of Electronics Course, ECE Department of Sharif University
 
 ## Honors And Awards
-* Best Ph.D. Thesis Award <span style="float:right"><small><i>2025</i></small></span><br>
+* **Best Ph.D. Thesis Award** <span style="float:right"><small><i>2025</i></small></span><br>
   Poisson Geometry of Flag Varieties and Representation Theory of their Quantum Deformations, Northeastern Univeristy Mathematics Department. 
-* [Ph.D. Spotlight](https://coe.northeastern.edu/news/phd-spotlight-aria-masoomi-phd24-computer-engineering-and-mathematics/) <span style="float:right"><small><i>2024</i></small></span><br>
+* [**Ph.D. Spotlight**](https://coe.northeastern.edu/news/phd-spotlight-aria-masoomi-phd24-computer-engineering-and-mathematics/) <span style="float:right"><small><i>2024</i></small></span><br>
   Computer Engineering and Mathematics, Northeastern University. 
-* [ICLR Spotlight Paper](https://openreview.net/forum?id=45Mr7LeKR9) <span style="float:right"><small><i>2022</i></small></span><br>
+* [**ICLR Spotlight Paper**](https://openreview.net/forum?id=45Mr7LeKR9) <span style="float:right"><small><i>2022</i></small></span><br>
   Explanations of Black-Box Models based on Directional Feature Interactions. 
-* [NeurIPS Spotlight Paper](https://neurips.cc/virtual/2021/spotlight/27161)
-  Reliable Estimation of KL Divergence using a Discriminator in Reproducing Kernel Hilbert Space. <span style="float:right"><small><i>2021</i></small></span>
-* [Singapore International Pre-Graduate Award (SIPGA)](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga) <span style="float:right"><small><i>2016</i></small></span><br>
+* [**NeurIPS Spotlight Paper**](https://neurips.cc/virtual/2021/spotlight/27161)  <span style="float:right"><small><i>2021</i></small></span><br>
+  Reliable Estimation of KL Divergence using a Discriminator in Reproducing Kernel Hilbert Space.
+* [**Singapore International Pre-Graduate Award (SIPGA)**](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga) <span style="float:right"><small><i>2016</i></small></span><br>
   A*STAR. 
-* Among the best B.Sc. Thesis of Electrical Engineering Department <span style="float:right"><small><i>2017</i></small></span><br>
-  Sharif University of Technology. 
-* Ranked 58th (top 0.5\%) in Iran University Entrance Exam. <span style="float:right"><small><i>2012</i></small></span>
+* **Among the best B.Sc. Thesis** <span style="float:right"><small><i>2017</i></small></span><br>
+   Electrical Engineering Department, Sharif University of Technology. 
+* **Ranked 58th (top 0.5\%) in Iran University Entrance Exam** <span style="float:right"><small><i>2012</i></small></span>
   
 ## Service and leadership
 * Summer School Organizer <span style="float:right"><small><i>2025</i></small></span><br>
