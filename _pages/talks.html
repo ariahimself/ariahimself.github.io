@@ -7,6 +7,7 @@ author_profile: true
 
 <ul> 
   {% for post in site.talks reversed %}
+      {% if post.title %}
       <li>
         <strong>
           {% if post.external_url %}
@@ -20,5 +21,6 @@ author_profile: true
           <em>{{ post.venue }}</em>, <em>{{ post.location }}</em>
         </small>
       </li>
+      {% endif %}
   {% endfor %}
 </ul>
