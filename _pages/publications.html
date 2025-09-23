@@ -9,20 +9,59 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %} -->
 
+<h2>Conference Proceedings</h2>
 <ul>
   {% for post in site.publications reversed %}
-    {% if post.title %}
-    <li>
-      <strong>
-        {% if post.paperurl %}
-          <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a>
-        {% else %}
-          {{ post.title }}
-        {% endif %}
-      </strong>
-      <br>
-      {{ post.authors }}. <em>{{ post.venue }}</em>, {{ post.date | date: "%Y" }}.
-    </li>
+    {% if post.collection == "conference" %}
+      <li>
+        <strong>
+          {% if post.paperurl %}
+            <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a>
+          {% else %}
+            {{ post.title }}
+          {% endif %}
+        </strong>
+        <br>
+        <small>{{ post.authors }}. <em> in Proceedings of {{ post.venue }}</em>, {{ post.date | date: "%Y" }}.</small>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<h2>Journal Articles</h2>
+<ul>
+  {% for post in site.publications reversed %}
+    {% if post.collection == "journal" %}
+      <li>
+        <strong>
+          {% if post.paperurl %}
+            <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a>
+          {% else %}
+            {{ post.title }}
+          {% endif %}
+        </strong>
+        <br>
+        <small>{{ post.authors }}. <em>{{ post.venue }}</em>, {{ post.date | date: "%Y" }}.</small>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<h2>Theses</h2>
+<ul>
+  {% for post in site.publications reversed %}
+    {% if post.collection == "thesis" %}
+      <li>
+        <strong>
+          {% if post.paperurl %}
+            <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a>
+          {% else %}
+            {{ post.title }}
+          {% endif %}
+        </strong>
+        <br>
+        <small>{{ post.authors }}. <em>{{ post.venue }}</em>, {{ post.date | date: "%Y" }}.</small>
+      </li>
     {% endif %}
   {% endfor %}
 </ul>

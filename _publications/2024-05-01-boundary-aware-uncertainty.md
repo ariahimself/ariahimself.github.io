@@ -5,5 +5,5 @@ permalink:
 date: 2024-05-01
 venue: 'Artificial Intelligence and Statistics (AISTATS)'
 paperurl: 'https://proceedings.mlr.press/v238/hill24a/hill24a.pdf'
-authors: 'Davin Hill, Aria Masoomi, et al. (2024)'
+authors: 'Davin Hill, <b>Aria Masoomi</b>, et al'
 ---
