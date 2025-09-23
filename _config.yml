@@ -221,6 +221,15 @@ collections:
   # teaching:
   #   output: false
   #   permalink: /:collection/:path/
+  conferences:
+    output: true
+    permalink: /:collection/:path/
+  journals:
+    output: true
+    permalink: /:collection/:path/
+  theses:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
