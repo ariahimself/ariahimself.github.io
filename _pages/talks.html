@@ -5,18 +5,20 @@ permalink: /talks/
 author_profile: true
 ---
 
-<ul>
+<ul> 
   {% for post in site.talks reversed %}
       <li>
         <strong>
           {% if post.external_url %}
-            <a href="{{ post.external_url }}" target="_blank">{{ post.title }}</a>
+            <a href="{{ post.external_url }}" target="_blank">{{ post.title }}</a> <span style="float:right;">{{ post.date | date: "%Y" }}</span>
           {% else %}
-            {{ post.title }}
+            {{ post.title }} <span style="float:right;">{{ post.date | date: "%Y" }}</span>
           {% endif %}
         </strong>
         <br>
-        <small><em>{{ post.venue }}</em>, {{ post.date | date: "%Y" }}.</small>
+        <small>
+          <em>{{ post.venue }}</em>, <em>{{ post.location }}</em>
+        </small>
       </li>
   {% endfor %}
 </ul>
