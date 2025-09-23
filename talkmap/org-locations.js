@@ -35,7 +35,7 @@ var addressPoints = [
     -119.7372976
   ],
   [
-    "Talk on \"From Prediction to Subtypes\"<br />COPDGene Disease Progression Workshop; Virtual",
+    "Talk on From Prediction to Subtypes<br />COPDGene Disease Progression Workshop; Virtual",
     44.4939936,
     11.3576917
   ],
