@@ -54,9 +54,9 @@ redirect_from:
 * **Ranked 58th (top 0.5%) in Iran University Entrance Exam** <span style="float:right"><small><i>2012</i></small></span>
   
 ## Service and leadership
-* Summer School Organizer <span style="float:right"><small><i>2025</i></small></span><br>
+* [**Summer School Organizer**](https://sites.google.com/view/rtg-northeastern/graduate/summer-schools/ml-summer-school-2025/people?authuser=0) <span style="float:right"><small><i>2025</i></small></span><br>
   Machine Learning for Mathematicians and Physicists Summer School, Northeastern University 
-* Conference Reviewer
+* **Conference Reviewer**
   * Advances in Neural Information Processing Systems (NeurIPS) <span style="float:right"><small><i>2025</i></small></span>
   * Association for the Advancement of Artificial Intelligence (AAAI) <span style="float:right"><small><i>2024</i></small></span>
   * Advances in Neural Information Processing Systems (NeurIPS) <span style="float:right"><small><i>2021</i></small></span>
