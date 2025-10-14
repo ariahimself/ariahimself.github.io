@@ -5,6 +5,6 @@ permalink:
 date: 2022-04-01
 venue: 'International Conference on Learning Representation <b>(ICLR)</b>'
 paperurl: 'https://openreview.net/forum?id=45Mr7LeKR9'
-authors: '<b><u>Aria Masoomi</u></b>, et al'
+authors: '<b><u>Aria Masoomi</u></b>, Davin Hill, Zhonghui Xu, Craig P Hersh, Edwin K Silverman, Peter J Castaldi, Stratis Ioannidis, Jennifer Dy'
 award: Spotlight Paper
 ---
