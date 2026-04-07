@@ -14,57 +14,40 @@ redirect_from:
 </a>
 </span>
 
+## Summary
+[cite_start]PhD research scientist with 10+ publications at NeurIPS, ICLR, and AISTATS (including two Spotlight awards) in mechanistic interpretability, LLM behavioral control, and adversarial robustness[cite: 6]. [cite_start]Combines strong mathematical foundations with hands-on experience running large-scale LLM experiments[cite: 7].
 
 ## Education
-* **Ph.D. in Electrical and Computer Engineering** <span style="float:right"><small><i>Sep 2019 - Dec 2024</i></small></span><br>
-  Northeastern University<br>
-  Advisor: [Professor Jennifer Dy](https://coe.northeastern.edu/people/dy-jennifer/)
-* **Ph.D. in Mathematics** <span style="float:right"><small><i>Sep 2022 - Aug 2025</i></small></span><br>
-  Northeastern University<br>
-  Advisor: [Professor  Milen Yakimov](https://yakimov.sites.northeastern.edu/)
-* **M.S. in Electrical and Computer Engineering** <span style="float:right"><small><i>Sep 2017 - Aug 2019</i></small></span><br>
-  Northeastern University
-* **B.Sc. in Electrical Engineering** <span style="float:right"><small><i>Sep 2012 - Aug 2017</i></small></span><br>
-  Sharif University of Technology, With Minor in Mathematical science
+* **Ph.D. in Electrical and Computer Engineering** <span style="float:right"><small><i>2017 - 2024</i></small></span><br>
+  [cite_start]Northeastern University, Boston, USA[cite: 68, 70]. [cite_start]GPA: 4.0/4.0[cite: 69].<br>
+  [cite_start]Thesis: Making Deep Neural Networks Transparent[cite: 71].
+* **Ph.D. in Mathematics** <span style="float:right"><small><i>2022 - 2025</i></small></span><br>
+  [cite_start]Northeastern University, Boston, USA[cite: 72, 73, 75]. [cite_start]GPA: 4.0/4.0[cite: 74].<br>
+  [cite_start]Thesis: Poisson Geometry of Flag Varieties and Representation Theory of their Quantum Deformations[cite: 76].
+* **M.S. in Electrical and Computer Engineering** <span style="float:right"><small><i>2017 - 2019</i></small></span><br>
+  [cite_start]Northeastern University, Boston, USA[cite: 77, 78, 80]. [cite_start]GPA: 3.96/4.0[cite: 79].
+* **B.Sc. in Electrical Engineering** <span style="float:right"><small><i>2012 - 2017</i></small></span><br>
+  [cite_start]Sharif University of Technology, Tehran, Iran[cite: 81, 82, 84]. [cite_start]GPA: 3.7/4.0[cite: 83].
 
 ## Experience
-* **Graduate Research Assistant** <span style="float:right"><small><i>Sep 2017 - Aug 2024</i></small></span><br>
-  ECE Department, Northeastern University
+* **Graduate Research Assistant** <span style="float:right"><small><i>2017 - 2025</i></small></span><br>
+  [cite_start]ECE Department, Northeastern University, Boston, USA[cite: 8, 9, 10].
+  * [cite_start]Led end-to-end research projects from ideation and implementation to evaluation and publication, producing 10+ papers at NeurIPS, ICLR, and AISTATS including two Spotlight awards (top 5%)[cite: 11].
+  * [cite_start]Designed and ran large-scale experiments on LLMs (LLaMA 3.1 8B, Gemma 2 9B) using HPC clusters (Slurm), iterating on mechanistic interpretability hypotheses across hundreds of ablations[cite: 12].
+  * [cite_start]Collaborated across institutions and disciplines, with clinicians at Brigham and Women's Hospital over multiple projects, translating genomic and spirometry data into model-ready pipelines and co-interpreting findings with medical domain experts[cite: 13].
+  * [cite_start]Drove the lab's expansion into LLM safety and steering by independently proposing new problem formulations[cite: 14]. [cite_start]Identifying open questions in activation steering and chain-of-thought controllability and establishing this as a sustained research direction for the group[cite: 15].
+  * [cite_start]Mentored 3 junior PhD students on ML theory and implementation; helping establish the group's outstanding publication record[cite: 16].
+  * [cite_start]Maintained 4.0 GPAs across two concurrent doctoral programs in ECE and Mathematics while maintaining a full publication record, demonstrating the ability to carry multiple deep, unrelated research threads in parallel without loss of rigor or output[cite: 17].
 
-* **Graduate Research Assistant** <span style="float:right"><small><i>Sep 2024 - Aug 2025</i></small></span><br>
-  Math Department, Northeastern University
-
-* **Researcher** <span style="float:right"><small><i>May 2016 - Aug 2016</i></small></span><br>
-  Astar (Institute for Infocomm Research)
-
-* **Teaching Assistant** <span style="float:right"><small><i>Sep 2015 - May 2017</i></small></span><br>
-  Lab assistance for Principles of Electronics Course, ECE Department of Sharif University
+## Skills
+* [cite_start]**LLM & Interpretability**: activation steering, mechanistic interpretability, TransformerLens, LLM behavioral evaluation (LLM-as-a-Judge)[cite: 19].
+* [cite_start]**Experiment Infrastructure**: PyTorch, Hugging Face Transformers, 4-bit quantization, large-scale ablations, Version Control[cite: 20].
+* [cite_start]**Agentic & Generative Systems**: LangChain, RAG pipelines, Vision-Language Models[cite: 21].
+* [cite_start]**ML & RL**: feature attribution, Shapley-value methods, PPO & GRPO[cite: 22].
+* [cite_start]**Mathematics**: Optimization, probability theory, Linear algebra, stochastic processes, PDEs, functional analysis[cite: 23].
 
 ## Honors And Awards
 * **Best Ph.D. Thesis Award** <span style="float:right"><small><i>2025</i></small></span><br>
-  Poisson Geometry of Flag Varieties and Representation Theory of their Quantum Deformations, Northeastern Univeristy Mathematics Department. 
-* [**Ph.D. Spotlight**](https://coe.northeastern.edu/news/phd-spotlight-aria-masoomi-phd24-computer-engineering-and-mathematics/) <span style="float:right"><small><i>2024</i></small></span><br>
-  Computer Engineering and Mathematics, Northeastern University. 
-* [**ICLR Spotlight Paper**](https://openreview.net/forum?id=45Mr7LeKR9) <span style="float:right"><small><i>2022</i></small></span><br>
-  Explanations of Black-Box Models based on Directional Feature Interactions. 
-* [**NeurIPS Spotlight Paper**](https://neurips.cc/virtual/2021/spotlight/27161)  <span style="float:right"><small><i>2021</i></small></span><br>
-  Reliable Estimation of KL Divergence using a Discriminator in Reproducing Kernel Hilbert Space.
-* [**Singapore International Pre-Graduate Award (SIPGA)**](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga) <span style="float:right"><small><i>2016</i></small></span><br>
-  A*STAR. 
-* **Among the best B.Sc. Thesis** <span style="float:right"><small><i>2017</i></small></span><br>
-   Electrical Engineering Department, Sharif University of Technology. 
-* **Ranked 58th (top 0.5%) in Iran University Entrance Exam** <span style="float:right"><small><i>2012</i></small></span>
-  
-## Service and leadership
-* [**Summer School Organizer**](https://sites.google.com/view/rtg-northeastern/graduate/summer-schools/ml-summer-school-2025/people?authuser=0) <span style="float:right"><small><i>2025</i></small></span><br>
-  Machine Learning for Mathematicians and Physicists Summer School, Northeastern University 
-* **Conference Reviewer**
-  * Advances in Neural Information Processing Systems (NeurIPS) <span style="float:right"><small><i>2025</i></small></span>
-  * Association for the Advancement of Artificial Intelligence (AAAI) <span style="float:right"><small><i>2024</i></small></span>
-  * Advances in Neural Information Processing Systems (NeurIPS) <span style="float:right"><small><i>2021</i></small></span>
-  * Society for Artificial Intelligence and Statistics (AISTATS) <span style="float:right"><small><i>2021</i></small></span>
-
-## Skills
-* **Programming Languages**: Python, MATLAB, C/C++, Maccaulay2, SageMath
-* **Data Science & Machine Learning**: PyTorch, pandas, NumPy, scikit-learn, LaTeX
-* **Version Control**: Git
+  [cite_start]Northeastern University[cite: 86, 88].
+* **Ph.D. Spotlight** <span style="float:right"><small><i>2024</i></small></span><br>
+  [cite_start]Northeastern University[cite: 87, 89].
